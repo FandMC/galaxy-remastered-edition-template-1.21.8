@@ -1,0 +1,10 @@
+{
+  "parent": "galaxy-remastered-edition:block/vertical_slab_top",
+  "textures": {
+    "bottom": "minecraft:block/birch_planks",
+    "top": "minecraft:block/birch_planks",
+    "side": "minecraft:block/birch_planks",
+    "particle": "minecraft:block/birch_planks"
+  },
+  "y": 90
+}

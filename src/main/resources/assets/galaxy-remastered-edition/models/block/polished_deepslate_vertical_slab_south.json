@@ -1,0 +1,9 @@
+{
+  "parent": "galaxy-remastered-edition:block/vertical_slab_north_top",
+  "textures": {
+    "bottom": "minecraft:block/polished_deepslate",
+    "top": "minecraft:block/polished_deepslate",
+    "side": "minecraft:block/polished_deepslate",
+    "particle": "minecraft:block/polished_deepslate"
+  }
+}

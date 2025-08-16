@@ -1,0 +1,10 @@
+{
+  "parent": "galaxy-remastered-edition:block/vertical_slab_top",
+  "textures": {
+    "bottom": "minecraft:block/bricks",
+    "top": "minecraft:block/bricks",
+    "side": "minecraft:block/bricks",
+    "particle": "minecraft:block/bricks"
+  },
+  "y": 90
+}

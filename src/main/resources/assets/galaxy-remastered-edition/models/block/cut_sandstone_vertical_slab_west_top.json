@@ -1,0 +1,10 @@
+{
+  "parent": "galaxy-remastered-edition:block/vertical_slab_top",
+  "textures": {
+    "bottom": "minecraft:block/cut_sandstone",
+    "top": "minecraft:block/cut_sandstone",
+    "side": "minecraft:block/cut_sandstone",
+    "particle": "minecraft:block/cut_sandstone"
+  },
+  "y": 270
+}

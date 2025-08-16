@@ -1,0 +1,10 @@
+{
+  "parent": "galaxy-remastered-edition:block/vertical_slab_top",
+  "textures": {
+    "bottom": "minecraft:block/deepslate_tiles",
+    "top": "minecraft:block/deepslate_tiles",
+    "side": "minecraft:block/deepslate_tiles",
+    "particle": "minecraft:block/deepslate_tiles"
+  },
+  "y": 90
+}

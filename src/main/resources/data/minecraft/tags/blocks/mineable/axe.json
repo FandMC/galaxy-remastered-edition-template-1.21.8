@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "galaxy-remastered-edition:oak_vertical_slab",
+    "galaxy-remastered-edition:spruce_vertical_slab",
+    "galaxy-remastered-edition:birch_vertical_slab",
+    "galaxy-remastered-edition:jungle_vertical_slab",
+    "galaxy-remastered-edition:acacia_vertical_slab",
+    "galaxy-remastered-edition:dark_oak_vertical_slab",
+    "galaxy-remastered-edition:mangrove_vertical_slab",
+    "galaxy-remastered-edition:cherry_vertical_slab",
+    "galaxy-remastered-edition:bamboo_vertical_slab",
+    "galaxy-remastered-edition:crimson_vertical_slab",
+    "galaxy-remastered-edition:warped_vertical_slab"
+  ]
+}

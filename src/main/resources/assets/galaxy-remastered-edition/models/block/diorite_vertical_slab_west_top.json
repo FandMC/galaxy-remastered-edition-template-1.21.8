@@ -1,0 +1,10 @@
+{
+  "parent": "galaxy-remastered-edition:block/vertical_slab_top",
+  "textures": {
+    "bottom": "minecraft:block/diorite",
+    "top": "minecraft:block/diorite",
+    "side": "minecraft:block/diorite",
+    "particle": "minecraft:block/diorite"
+  },
+  "y": 270
+}

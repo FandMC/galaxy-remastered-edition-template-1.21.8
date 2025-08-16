@@ -1,0 +1,10 @@
+{
+  "parent": "galaxy-remastered-edition:block/vertical_slab",
+  "textures": {
+    "bottom": "minecraft:block/polished_granite",
+    "top": "minecraft:block/polished_granite",
+    "side": "minecraft:block/polished_granite",
+    "particle": "minecraft:block/polished_granite"
+  },
+  "y": 270
+}
