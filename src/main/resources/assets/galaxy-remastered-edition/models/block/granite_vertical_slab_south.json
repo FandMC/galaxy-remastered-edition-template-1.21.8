@@ -1,9 +1,0 @@
-{
-  "parent": "galaxy-remastered-edition:block/vertical_slab_north_top",
-  "textures": {
-    "bottom": "minecraft:block/granite",
-    "top": "minecraft:block/granite",
-    "side": "minecraft:block/granite",
-    "particle": "minecraft:block/granite"
-  }
-}
